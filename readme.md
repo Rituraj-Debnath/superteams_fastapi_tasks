@@ -1,1 +1,1 @@
-1. The first work is create a file explorer like a NAS. and then i would create api endpoints.
+The demo project is mainly based on the idea where our laptop is like a NAS , now we take our root folder , and our intention is to create api endpoints to access other sub-folders and files inside the root folder , just like a file manager.
